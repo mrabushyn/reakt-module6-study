@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reakt-module6-study/static/css/main.aaaf48ca.css",
-    "main.js": "/reakt-module6-study/static/js/main.f88650a6.js",
+    "main.js": "/reakt-module6-study/static/js/main.07eb8ac8.js",
     "index.html": "/reakt-module6-study/index.html",
     "main.aaaf48ca.css.map": "/reakt-module6-study/static/css/main.aaaf48ca.css.map",
-    "main.f88650a6.js.map": "/reakt-module6-study/static/js/main.f88650a6.js.map"
+    "main.07eb8ac8.js.map": "/reakt-module6-study/static/js/main.07eb8ac8.js.map"
   },
   "entrypoints": [
     "static/css/main.aaaf48ca.css",
-    "static/js/main.f88650a6.js"
+    "static/js/main.07eb8ac8.js"
   ]
 }
